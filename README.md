@@ -1,24 +1,24 @@
 # Oh-Crop
 
 ## Team Members:
+### Front End
 [Madison Randle GitHub](https://github.com/madisonrandle)
 
 [Kimala Cochran GitHub](https://github.com/kimalajoy)
 
 [Ryan Camp GitHub](https://github.com/cmpprg)
 
+### Back End
 [Mike Hernandez GitHub](https://github.com/mikez321)
 
 [Kelsha Darby GitHub](https://github.com/kelshadarby)
 
 
 ## Abstract
+Oh Crop is a mobile app for gardeners/plant lovers to help them take care of their plants. Search and save plants from the database and save them in your in app garden to keep track of their care. Plant information includes days to harvest as well as average watering requirements. You can give each plant a name and let the app know when you watered.
 
 **Technologies Used:**
-*React Native*, *React Expo*
-
-Oh Crop is a ...
-
+*React Native*, *React Expo*, *Axios*, *React Native Testing Library*, *Jest*
 
 ## Screenshots
 
@@ -33,3 +33,11 @@ Oh Crop is a ...
 
 ### Water Plant Functionality
 ![Watering a Garden Plant](https://user-images.githubusercontent.com/54754467/88851509-15496b00-d1aa-11ea-92b2-8e6e0005a3b8.gif)
+
+## Project Next Steps
+Chores/To Do Bar - so you can see what plants currently need care
+Incorporate push notifications for when to care for your plant
+Additional plant information
+Plant friends - Plants that benefit when planted near each other
+Weather information and updates - Updates and warnings for severe weather or frost
+Calendar view
