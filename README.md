@@ -20,10 +20,19 @@ Oh Crop is a mobile app for gardeners/plant lovers to help them take care of the
 **Technologies Used:**
 *React Native*, *React Expo*, *Axios*, *React Native Testing Library*, *Jest*
 
+## Project Next Steps
+* Chores/To Do Bar - so you can see what plants currently need care
+* Incorporate push notifications for when to care for your plant
+* Additional plant information
+* Plant friends - Plants that benefit when planted near each other
+* Weather information and updates - Updates and warnings for severe weather or frost
+* Calendar view
+
 ## Screenshots
 
 ### Search functionality:
-![Search for a Plant functionality](https://user-images.githubusercontent.com/54754467/88740274-f25f7e00-d0f9-11ea-8891-e5ab3414cc9c.gif) 
+![Search for a Plant functionality](https://user-images.githubusercontent.com/54754467/88740274-f25f7e00-d0f9-11ea-8891-e5ab3414cc9c.gif)
+
 ### Add a plant to your garden:
 ![Add a Plant functionality](https://user-images.githubusercontent.com/54754467/88740190-bd532b80-d0f9-11ea-8945-6a0d04d56c8d.gif)
 
@@ -33,10 +42,4 @@ Oh Crop is a mobile app for gardeners/plant lovers to help them take care of the
 ### Water Plant Functionality
 ![Watering a Garden Plant](https://user-images.githubusercontent.com/54754467/88851509-15496b00-d1aa-11ea-92b2-8e6e0005a3b8.gif)
 
-## Project Next Steps
-Chores/To Do Bar - so you can see what plants currently need care
-Incorporate push notifications for when to care for your plant
-Additional plant information
-Plant friends - Plants that benefit when planted near each other
-Weather information and updates - Updates and warnings for severe weather or frost
-Calendar view
+
