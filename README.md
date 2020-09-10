@@ -23,8 +23,7 @@ Oh Crop is a mobile app for gardeners/plant lovers to help them take care of the
 ## Screenshots
 
 ### Search functionality:
-![Search for a Plant functionality](https://user-images.githubusercontent.com/54754467/88740274-f25f7e00-d0f9-11ea-8891-e5ab3414cc9c.gif)
-
+![Search for a Plant functionality](https://user-images.githubusercontent.com/54754467/88740274-f25f7e00-d0f9-11ea-8891-e5ab3414cc9c.gif) 
 ### Add a plant to your garden:
 ![Add a Plant functionality](https://user-images.githubusercontent.com/54754467/88740190-bd532b80-d0f9-11ea-8945-6a0d04d56c8d.gif)
 
